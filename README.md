@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You can't "kill" time, but time can eventually kill you!
+- ⚡ Fun fact: You can't "kill" time, but time will eventually kill you!
 <!--
 **NioGreek/NioGreek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
