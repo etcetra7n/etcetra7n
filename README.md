@@ -3,7 +3,6 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-19-blue" />
 </p>
-<hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am John Anchery </h1>
 <p align="center">
 <a href="https://www.hackerrank.com/etcetra7n" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
